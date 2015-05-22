@@ -1,7 +1,7 @@
 # Vertx 3 Web Example
 
 This project is similar to some vertx examples. It can be started in your IDE or with `./gradlew run`.
-It uses the main class `io.vertx.core.Starter` and passes in the arguments `run io.vertx.example.HelloWorldVerticle`.
+It uses the main class `io.vertx.core.Starter` and passes in the arguments `run vertx3.restexample.RestExampleVerticle`.
 
 ## Fat Jar
 
