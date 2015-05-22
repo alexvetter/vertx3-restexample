@@ -30,7 +30,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
-def mainVerticle = "vertx3.restexample.HelloWorldVerticle"
+def mainVerticle = "vertx3.restexample.RestExampleVerticle"
 mainClassName = "io.vertx.core.Starter"
 
 run {
