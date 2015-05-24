@@ -22,3 +22,7 @@ Point your browser at `http://localhost:8080`
 1. `GET /users`
 2. `GET /users/:userid`
 3. `PUT /users`
+
+## Tests
+
+Simple test example with `VertxUnitRunner` as `JUnit Runner`.
